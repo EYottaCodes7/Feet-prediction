@@ -15,7 +15,7 @@ input age of a child and their foot length (cm) output shoe size (in US, UK, and
 
 ## Programming language and tech
 Java
-processing 3.4 (with java & java-scripts
+processing 3.4 (with java & java-script)
 
 ## Author
 
@@ -23,4 +23,4 @@ Eyuel Mekonnen
 
 ## License
 
-this project is for educational and portfolio purposes.
+This project is for educational and portfolio purposes.
